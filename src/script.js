@@ -1,7 +1,7 @@
+//search stuff
 const f = document.getElementById('form');
 const q = document.getElementById('query');
-const google = 'https://search.networkchuck.coffee/search?q=';
-//eventually change to 'https://www.strangepotatoowls.com/search?q='
+const google = 'https://strangepotatoowls.com/search?q=';
 
 
 function submitted(event) {
